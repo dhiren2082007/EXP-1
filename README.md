@@ -46,36 +46,42 @@ CIRCUIT DIAGRAM:
 a.   KVL:
  
 
-<img width="1920" height="1200" alt="488726881-5a03b0a9-cc19-4749-b2e8-61616462ea07" src="https://github.com/user-attachments/assets/f38f6750-230c-4ce2-9d6c-99fc85e41b99" />
+
+<img width="624" height="307" alt="image" src="https://github.com/user-attachments/assets/9ef9532c-662a-41d8-bd9a-22e97ffdfc76" />
+
 
 b.  KCL:
  
-<img width="1920" height="1200" alt="488727098-04991427-0ad2-4262-9ac2-387904295d5a" src="https://github.com/user-attachments/assets/c7145229-e6fd-4ade-bf22-7dc8e019c51c" />
 
-## Calculation and Tabulation:
+<img width="646" height="267" alt="image" src="https://github.com/user-attachments/assets/4e1fd900-d263-45de-9d01-442492c9ee31" />
 
-## KVL and KCL:
+Calculation:
 
- <img width="612" height="1010" alt="489273631-d21b05da-9355-44c8-be7c-ff4976bd6680" src="https://github.com/user-attachments/assets/3ec308fe-ed33-407a-9f39-42939d524f7c" />
-
-<img width="539" height="968" alt="489273662-f28f8f01-a418-4f56-a154-2df7e9bab5d0" src="https://github.com/user-attachments/assets/34eab29b-6884-4600-a339-7784a6359b22" />
-
-<img width="610" height="980" alt="489273679-39ea9b0d-b296-46ae-853c-ad075feb9880" src="https://github.com/user-attachments/assets/e7fdb573-d05f-4691-ba10-3964e3458553" />
-
-<img width="529" height="1018" alt="489273699-2545fb89-3444-4900-9e73-04c06c76ccb7" src="https://github.com/user-attachments/assets/e7ea3371-99bd-4d49-8980-f8971153ed38" />
-
-<img width="524" height="963" alt="489273720-50e62cd7-98b0-444e-8c1d-884488226175" src="https://github.com/user-attachments/assets/e4d752f1-a99d-4e95-a699-37308c58d950" />
-
-
-
-
-
-
+a.   KVL:
  
 
+<img width="580" height="209" alt="image" src="https://github.com/user-attachments/assets/f8e7142c-ef10-4aed-b5a1-33c57cf7487d" />
+
+
+b.  KCL:
+
+<img width="580" height="209" alt="image" src="https://github.com/user-attachments/assets/44f343b9-c262-4cf9-9e90-fa3d5230017e" />
 
 
 
+
+Tabulation:
+
+a.   KVL:
+ 
+
+<img width="629" height="235" alt="image" src="https://github.com/user-attachments/assets/a5da1601-c027-43a6-9b4a-2031a8195ea7" />
+
+
+b.  KCL:
+
+
+<img width="572" height="198" alt="image" src="https://github.com/user-attachments/assets/79ccacfa-b58c-4e69-a588-f8de382e97e3" />
 
 
 RESULT:
